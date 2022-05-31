@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @saumyaramolia
 - 👀 I’m interested in Anime, Kdrama.
-- 🌱 I’m currently learning MERN Stack
+- 🌱 MERN Stack || Web Developer || Android Developer 
+- 👨‍🏫 I'm Learning Cloud Computing 
 
 <!---
 saumyaramolia/saumyaramolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
