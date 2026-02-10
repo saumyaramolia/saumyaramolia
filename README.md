@@ -1,4 +1,6 @@
-# 🏗️ Saumya Haresh Ramoliya | Full-Stack Engineer & AI Solutions Architect
+# Saumya Haresh Ramoliya
+
+### 🏗️ Full-Stack Engineer & AI Solutions Architect
 
 > **Bridging the gap between complex engineering and scalable software solutions.**
 
